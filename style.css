@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family:sans-serif ;
+}
+
+.image{
+    width: 100%;
+    height: 100vh;
+    background: url("https://images.unsplash.com/photo-1659586692312-dc4e35004728?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDV8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.container{
+    text-align: center;
+    padding: 10px;
+    background-color: aquamarine;
+    color: black;
+
+}
+
+.container h1{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
